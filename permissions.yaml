@@ -1,0 +1,27 @@
+---
+srknc:
+  teams:
+    - QA
+admulders:
+  teams:
+    - QA
+phfilly:
+  teams:
+    - QA
+dahyui:
+  teams:
+    - QA
+jensdenies:
+  teams:
+    - QA
+martinkooij:
+  role: maintainer
+  teams:
+    - QA
+marc-jan:
+  teams:
+    - QA
+niels-spoxx:
+  role: maintainer
+  teams:
+    - QA
